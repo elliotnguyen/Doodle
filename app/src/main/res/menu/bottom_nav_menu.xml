@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/paintview"
+        android:title="Paint"
+        android:icon="@mipmap/paint_icon"
+        android:background="@drawable/button_background" />
+    <item
+        android:id="@+id/animateview"
+        android:title="Animate"
+        android:icon="@mipmap/animate_icon"
+        android:background="@drawable/button_background"/>
+    <item
+        android:id="@+id/doodle"
+        android:title="Doodle"
+        android:icon="@mipmap/doodle_icon"
+        android:background="@drawable/button_background"/>
+</menu>
